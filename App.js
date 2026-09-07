@@ -8,8 +8,6 @@ import Home from "./Pages/Home";
 import ReadBook from "./Pages/ReadBook";
 import { LinearGradient } from "expo-linear-gradient";
 
-import AppLoading from "expo-app-loading";
-
 import Video from "./Pages/Video";
 export default function App() {
 	const Stack = createStackNavigator();
